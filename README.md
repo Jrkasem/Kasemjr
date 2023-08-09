@@ -14,7 +14,21 @@ Subsequently, the calculations for sensitivity, specificity, positive likelihood
 
 The final SQL query retrieves the calculated values for each condition and likelihood ratio type from the temporary table, applying the necessary formulas. Finally, the temporary table is dropped to clean up the environment.
 
-This project demonstrates the application of SQL in healthcare analytics, specifically in evaluating diagnostic test performance through likelihood ratios. It showcases the importance of accurate and precise data analysis in the medical field to make informed decisions and improve patient outcomes.
+# [Project 4: Exploratory Analysis of Healthcare Data: Unveiling Insights into Hospital Rankings and Equity Metrics using Python and Data Visualization](https://github.com/Jrkasem/AK_healtcare_data_portfolio/blob/main/jup_notebook_file.ipynb)
+This project involves the exploration and analysis of a healthcare dataset using Python's Pandas library for data manipulation and Seaborn and Matplotlib libraries for data visualization. The dataset, obtained from an Excel file, contains information about various hospitals, including attributes such as location, ownership type, rankings, and equity-related metrics.
+
+# [Project 5: Pareto chart of the whole world death by causes in Tableau](https://public.tableau.com/app/profile/ahmed.kasim/viz/paretochartofthewholeworlddeathbycausecbyAhmedKasim/Sheet1)
+I undertook the task of creating an interactive Pareto chart in Tableau, presenting a comprehensive overview of global deaths categorized by cause. This dynamic visualization offers a user-friendly browsing experience, enabling effortless exploration of data from various countries. By simply clicking on different countries within the chart, viewers can swiftly access specific details about causes of death, allowing for deeper insights and comparisons. This project harnesses the power of data visualization to deliver a clear and insightful portrayal of worldwide mortality patterns and facilitates a seamless exploration of this crucial information across the globe.
+
+
+
+
+
+
+
+
+
+
 
 
 
