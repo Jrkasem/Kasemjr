@@ -27,6 +27,7 @@ I undertook the task of creating an interactive Pareto chart in Tableau, present
 # [check my tableau viz](https://public.tableau.com/app/profile/ahmed.kasim/viz/Book1_16917503129460/Dashboard1)
 The "2022 Flu Vaccination Insights Dashboard" is a comprehensive visual tool designed to provide healthcare professionals and administrators with a clear and actionable understanding of the flu vaccination campaign conducted during the year 2022. This interactive dashboard offers a holistic view of key vaccination metrics, enabling data-driven decision-making and informed strategies to optimize vaccination efforts. This SQL code essentially combines patient information with vaccination data to generate a dataset that can be used for creating your flu shots dashboard. The resulting dataset includes patient demographics, their earliest flu shot date in 2022, and whether they received a flu shot during that year. This dataset can then be imported into Tableau for further visualization and analysis. 
 
+# [Project 7: Egypt VS saudi World Cup 2018 Data analysis](
 
 
 
